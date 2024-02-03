@@ -4,7 +4,7 @@
       "id": 0,
       "name": "Acme Fresh Start Housing",
       "city": "Chicago",
-      "state": "IL",
+      "state": "ILL",
       "photo": "https://angular.io/assets/images/tutorials/faa/bernard-hermant-CLKGGwIBTaY-unsplash.jpg",
       "availableUnits": 4,
       "wifi": true,
